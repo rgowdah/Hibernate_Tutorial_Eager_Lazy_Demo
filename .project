@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Hibernate_Tutorial_OneToOne_Bi</name>
+	<name>Hibernate_Tutorial_Eager_Lazy_Demo</name>
 	<comment></comment>
 	<projects>
 	</projects>
